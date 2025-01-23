@@ -5,12 +5,12 @@ import "./App.css"
 
 const App = () => {
   return (
-   <main>
-      <h1>TODO REACT + TYPESCRIPT </h1>
+    <main>
+      <h1>REACT + TYPESCRIPT Sample Project </h1>
       <Navbar />
       <AddToDo />
       <Todos />
-   </main>
+    </main>
   )
 }
 
